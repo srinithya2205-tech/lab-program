@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "source_url": "https://srinithya2205-tech.github.io/lab-program/",
+    "extracted_on": "2026-11-16",
+    "note": "Every value below was copied from the live portfolio page. If you change the website, update this file so the assistant stays accurate."
+  },
+  "profile": {
+    "name": "Sri Nithya",
+    "headline": "B.Tech Student, Computer Science (AI & ML)",
+    "university": "Jain University",
+    "location": "Bengaluru, Karnataka, India",
+    "status": "Open to Internship Opportunities",
+    "seeking": "Actively seeking Summer & Fall Internships",
+    "hero_badge": "3+ Projects",
+    "tagline": "Learn. Build. Improve. One meaningful algorithm at a time.",
+    "summary": "a Computer Science undergraduate at Jain University, Bengaluru, specializing in Artificial Intelligence and Machine Learning, who loves understanding how complex computational systems work, strengthening algorithmic foundations, and turning classroom concepts into impactful real-world software.",
+    "current_focus": "Mastering rigorous problem solving, statistical data analysis, algorithmic optimizations, and developing responsive, user-friendly web applications.",
+    "core_interests": ["AI/ML", "Data Analysis", "Graph Theory", "Web Development"],
+    "values": [
+      {"title": "Stay Curious", "text": "Ask the deeper questions behind every dataset and theoretical concept."},
+      {"title": "Build with Purpose", "text": "Translate classroom lectures into functional, real-world implementations."},
+      {"title": "Keep Improving", "text": "Iterate with resilience, embracing feedback and continuous refinement."}
+    ]
+  },
+  "education": {
+    "degree": "Bachelor of Technology (B.Tech)",
+    "major": "Computer Science and Engineering (AI & ML)",
+    "institution": "Jain University, Bengaluru, Karnataka, India",
+    "status": "Currently Pursuing",
+    "focus_areas": [
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming",
+      "Graph Theory",
+      "Statistical Computing",
+      "Artificial Intelligence Foundations",
+      "Web Technologies"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming",
+      "items": ["Python", "C", "Java", "OOP"],
+      "description": "Strong grounding in procedural and object-oriented paradigms, algorithm analysis, and modular problem-solving."
+    },
+    {
+      "category": "Web Development",
+      "items": ["HTML5", "CSS3", "JavaScript (ES6+)", "Responsive UI"],
+      "description": "Crafting clean, accessible, and responsive user experiences with modern semantic markup and dynamic styling."
+    },
+    {
+      "category": "AI & Data Analysis",
+      "items": ["AI/ML Concepts", "Data Analysis", "EDA", "Predictive Modeling"],
+      "description": "Exploring supervised models, feature correlation, outlier treatment, and transforming raw numbers into clear actionable insights."
+    },
+    {
+      "category": "Mathematical Theory",
+      "items": ["Graph Theory", "Statistics", "Probability", "Discrete Math"],
+      "description": "Rigorous mathematical foundations for computational complexity, tree traversals, and statistical hypothesis testing."
+    }
+  ],
+  "projects": [
+    {
+      "id": "aqi-analysis",
+      "name": "Air Quality Index (AQI) Analysis",
+      "category": "Data Analysis",
+      "kind": "Academic Project",
+      "description": "A comprehensive statistical exploration examining urban air quality indicators across Indian metropolitan areas. Investigates key pollutant concentrations including PM2.5, PM10, NO₂, and CO to detect seasonal shifts, emission hotspots, and health index correlations.",
+      "tags": ["Python", "Statistics", "Data Analysis", "AQI Metrics"],
+      "match_terms": ["aqi", "air quality", "pollution", "pollutant", "pm25", "pm10"]
+    },
+    {
+      "id": "route-optimizer",
+      "name": "Smart Route & Delivery Optimizer",
+      "category": "Graph Theory",
+      "kind": "Algorithmic Concept",
+      "description": "A computational route-planning model that formulates logistics networks as directed weighted graphs. Employs Minimum Spanning Trees (MST) and shortest-path heuristics to model hub interconnections and streamline package dispatch efficiency.",
+      "tags": ["Graph Theory", "Trees & MST", "Shortest Path", "Optimization"],
+      "match_terms": ["route", "delivery", "optimizer", "optimiser", "logistics", "mst", "minimum spanning tree"]
+    },
+    {
+      "id": "queueless",
+      "name": "QueueLess: Canteen Crowd Predictor",
+      "category": "Problem-Solving",
+      "kind": "Campus Concept",
+      "description": "A student-centric analytics application concept engineered to forecast university cafeteria congestion levels. Correlates scheduled class dismissal times, historical meal-rush peaks, and student traffic to recommend optimal low-wait dining intervals.",
+      "tags": ["Predictive Modeling", "Student UX", "Campus Analytics", "Time-Series"],
+      "match_terms": ["queueless", "queue less", "canteen", "cafeteria", "crowd", "congestion"],
+      "forecast_metric": {
+        "peak_congestion": "1:15 PM – 1:45 PM",
+        "estimated_wait": "~18 mins",
+        "recommended_window": "12:45 PM (Low Wait)"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Learning Graph Neural Networks",
+      "provider": "LinkedIn Learning",
+      "date": "October 05, 2026",
+      "duration": "2 hours 13 minutes",
+      "skills": ["Neural Networks", "Graph Networks", "Artificial Intelligence (AI)"],
+      "certificate_url": "https://srinithya2205-tech.github.io/lab-program/certificates/linkedin-learning-graph-neural-networks.pdf"
+    },
+    {
+      "name": "Programming Foundations: Discrete Mathematics",
+      "provider": "LinkedIn Learning",
+      "date": "October 05, 2026",
+      "duration": "3 hours 9 minutes",
+      "skills": ["Discrete Mathematics", "Programming Foundations"],
+      "certificate_url": "https://srinithya2205-tech.github.io/lab-program/certificates/linkedin-learning-discrete-mathematics.pdf"
+    }
+  ],
+  "contact": {
+    "email": "srinithya2205@gmail.com",
+    "github": "github.com/srinithya2205-tech/lab-program",
+    "linkedin": "linkedin.com/in/bakki-reddy-sri-nitya-1b160b3b3",
+    "linkedin_url": "https://www.linkedin.com/in/bakki-reddy-sri-nitya-1b160b3b3",
+    "has_contact_form": true,
+    "open_to": "internship opportunities, research collaborations, and software engineering mentorship"
+  },
+  "experience": [],
+  "achievements": []
+}

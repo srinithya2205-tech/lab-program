@@ -1,0 +1,7 @@
+# Runtime dependencies for the Portfolio Intelligence Assistant API.
+# Ranges (not exact pins) because these could not be install-tested offline;
+# run `pip freeze > requirements.lock` after your first successful install
+# if you want fully reproducible deploys.
+fastapi>=0.110,<1.0
+pydantic>=2.6,<3.0
+uvicorn[standard]>=0.29,<1.0
